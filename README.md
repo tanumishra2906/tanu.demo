@@ -1,4 +1,4 @@
 # tanu.demo
 this is my first git repository.
 <br>
-author-tanu mishra
+author-tanu mish
